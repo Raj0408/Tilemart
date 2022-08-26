@@ -1,4 +1,4 @@
-# tilesapplication
+# TilesApplication
 
 This Application made using flutter and Application made for Different Tiles .
 
