@@ -9,7 +9,6 @@ import 'Pages/contact_us.dart';
 import 'Pages/product.dart';
 
 void main() {
-  
   runApp(MyApp());
 }
 
